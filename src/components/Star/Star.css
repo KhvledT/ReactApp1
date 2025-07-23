@@ -1,0 +1,15 @@
+.line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whiteStar-line1{
+    width: 80px;
+    height: 4px;
+    background-color: white !important;
+    margin: 10px;
+}
+.whiteStar-line2{
+    color: white !important;
+    font-size: 20px;
+}
